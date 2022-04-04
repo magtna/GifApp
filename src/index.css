@@ -1,0 +1,40 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+/*   color: aliceblue;
+ */
+}
+/* body{
+  padding: 60px;
+  background-color: rgb(50, 50, 50);
+} */
+ input{
+   font-size: 1.25rem;
+   color:gray;
+   width: 100%;
+
+ }
+
+ .card {
+   align-content: center;
+   border: 2px solid gray;
+   border-radius: 6px;
+   margin-bottom: 10px;
+   margin-right: 10px;
+
+   overflow: hidden;
+ }
+ .card p {
+   padding: 5px;
+   text-align: center;
+ }
+ .card img {
+   max-height: 170px;
+ }
+
+ .card-grid {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+ }
+/* carolina.castillo@utmetropolitana.edu.mx
+enviar solicitud de reingreso */
